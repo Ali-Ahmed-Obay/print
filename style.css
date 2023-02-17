@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+a{
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px;
+    color: #ffeb3b;
+    background-color: #333;
+    border-radius: 8px;
+    
+}
